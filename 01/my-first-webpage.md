@@ -27,16 +27,16 @@ Practice creating **HTML Elements** and using **CSS** to style them.
 
 ## Stretch Goal
 1. Experiment with these other CSS properties:
-  * [padding] (https://www.w3schools.com/cssref/pr_padding.asp)
-  * [margin] (https://www.w3schools.com/cssref/pr_margin.asp)
-  * [line-height] (https://www.w3schools.com/cssref/pr_dim_line-height.asp)
-  * [letter-spacing] (https://www.w3schools.com/cssref/pr_text_letter-spacing.asp)
-  * [text-align] (https://www.w3schools.com/cssref/pr_text_text-align.asp)
-  * [outline] (https://www.w3schools.com/cssref/pr_outline.asp)
-  * [opacity] (https://www.w3schools.com/cssref/css3_pr_opacity.asp)
-  * [font-size] (https://www.w3schools.com/cssref/pr_font_font-size.asp)
+  * [padding](https://www.w3schools.com/cssref/pr_padding.asp)
+  * [margin](https://www.w3schools.com/cssref/pr_margin.asp)
+  * [line-height](https://www.w3schools.com/cssref/pr_dim_line-height.asp)
+  * [letter-spacing](https://www.w3schools.com/cssref/pr_text_letter-spacing.asp)
+  * [text-align](https://www.w3schools.com/cssref/pr_text_text-align.asp)
+  * [outline](https://www.w3schools.com/cssref/pr_outline.asp)
+  * [opacity](https://www.w3schools.com/cssref/css3_pr_opacity.asp)
+  * [font-size](https://www.w3schools.com/cssref/pr_font_font-size.asp)
 2. Change the font!
-  * Go to [Google Fonts] (https://fonts.google.com/) and look for a font you like. Click on the pink (+) icon at the top right corner of the font.
+  * Go to [Google Fonts](https://fonts.google.com/) and look for a font you like. Click on the pink (+) icon at the top right corner of the font.
   * Click on the black bar that appears at the bottom of your screen saying "1 Family Selected"
   * Click on the ```@IMPORT``` tab
   * Copy the ```@import url('whateverurlithas');``` without the ```<style></style>``` tags
