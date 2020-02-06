@@ -2,7 +2,7 @@
 
 Material geared towards 6th - 12th graders.
 
-##Day 1
+## Day 1
 1. **Background**
   * What is a website made out of?
   * How do we use these languages to make a website?
@@ -20,7 +20,7 @@ Material geared towards 6th - 12th graders.
 3. **Projects**
   * [My First Webpage](https://github.com/ICSpark/intro-to-web-dev/blob/master/01/my-first-webpage.md)
 
-##Day 2
+## Day 2
 1. **Background**
   * What is a text editor? Atom?
   * How do I create and link my HTML, CSS, and JS files?
