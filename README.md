@@ -3,6 +3,11 @@
 Material geared towards 6th - 12th graders.
 
 ## Day 1
+
+### Resources
+- Online text editor: https://codepen.io/
+- HTML, CSS, JS reference: https://www.w3schools.com/
+
 1. **Background**
   * What is a website made out of?
   * How do we use these languages to make a website?
@@ -21,6 +26,11 @@ Material geared towards 6th - 12th graders.
   * [My First Webpage](https://github.com/ICSpark/intro-to-web-dev/blob/master/01/my-first-webpage.md)
 
 ## Day 2
+
+### Resources
+- Atom text editor: https://atom.io/
+- Flexbox Froggy: https://flexboxfroggy.com/
+
 1. **Background**
   * What is a text editor? Atom?
   * How do I create and link my HTML, CSS, and JS files?
