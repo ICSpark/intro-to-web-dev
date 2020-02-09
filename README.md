@@ -44,3 +44,16 @@ Material geared towards 6th - 12th graders.
   * Flexbox Froggy
 5. **Project**
   * [Designer Calendar](https://github.com/junior-devleague/designer-calendar)
+
+## Day 3
+
+### Resources
+- Guide to CSS Flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+1. **Background**
+  * CSS Flexbox
+  * Parent and child
+2. **Exercises**
+  * Flexbox Practice, Practice, Practice
+3. **Projects**
+  * [Interactive Storybook](https://github.com/junior-devleague/interactive-storybook)
