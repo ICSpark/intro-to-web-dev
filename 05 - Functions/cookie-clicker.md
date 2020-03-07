@@ -71,5 +71,5 @@ element.addEventListener("click", update);
 ```
 
 ## Stretch Goal
-1. Display a congratulatory message every 50 clicks. Hint: Use an if statement
+1. Display a congratulatory message every 50 clicks. Hint: Use an if statement and the modulus (%) operator
 2. Add multiple cookies on the page and keep track of clicks for each cookie being clicked on.
