@@ -67,7 +67,7 @@ element.innerHTML = "Text";
 9. Execute the function when you click on the image using this pattern. Change the "element" to the cookie image:
 
 ``` JavaScript
-element.addEventListener("click", update());
+element.addEventListener("click", update);
 ```
 
 ## Stretch Goal
