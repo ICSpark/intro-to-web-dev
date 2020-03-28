@@ -84,7 +84,7 @@ var yourVariableName = document.getElementById("yourElementId");
 ``` javascript
 button.addEventListener("click", function(){
 
-})
+});
 ```
 
 3. When the button is clicked, we want to check the input to see what the user has typed. We can access the value of the input using ```input.value```. Create an ```if statement``` that checks if the user says "Hi". For a review of if statements, look at: https://www.w3schools.com/js/js_if_else.asp.
@@ -100,4 +100,4 @@ button.addEventListener("click", function(){
 
 ## Stretch Goal
 
-1. Create and append dialogue elements (e.g. ```p``` elements that are styled to look like dialogue bubbles) to the page every time you click on the button. This will show a record of the conversation (like a text messaging app). 
+1. Create and append dialogue elements (e.g. ```p``` elements that are styled to look like dialogue bubbles) to the page every time you click on the button. This will show a record of the conversation (like a text messaging app).
