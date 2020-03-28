@@ -100,4 +100,4 @@ button.addEventListener("click", function(){
 
 ## Stretch Goal
 
-1. Create and append dialogue elements (e.g. ```p``` elements that are styled to look like dialogue bubbles) to the page every time you click on the button. This will show a record of the conversation (like a text messaging app).
+1. Create and append dialogue elements (e.g. ```p``` elements that are styled to look like dialogue bubbles) to the page every time you click on the button. This will show a record of the conversation (like a text messaging app). Resource: https://www.w3schools.com/jsref/met_document_createelement.asp
