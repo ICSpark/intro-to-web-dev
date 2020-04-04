@@ -87,7 +87,7 @@ Use what you have learned (If statements, functions, DOM...etc.) to create a sim
   * Set the ```padding``` to ```10px```
 
 ## Part III: JS
-1. Store the ```input```, ```button```, and ```div``` with an id of "output-section" element in variables using the DOM method ```document.getElementById(elementId)```. An example is shown below:
+1. Store the ```input```, ```button```, and ```div``` element in variables using the DOM method ```document.getElementById(elementId)```. An example is shown below:
 
 ``` javascript
 var yourVariableName = document.getElementById("yourElementId");
